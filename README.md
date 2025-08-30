@@ -1,5 +1,3 @@
-# /qr-code-generator/README.md
-
 # QR Code Generator
 
 A simple web application to generate QR codes from text or URLs. Built with a Python Flask backend and a modern HTML, CSS, and JavaScript front-end.
